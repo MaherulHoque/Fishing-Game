@@ -1,0 +1,383 @@
+fileFormatVersion: 2
+guid: 7f93641b55501854f9cffc0cfd956c21
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: baits_0
+    21300002: baits_1
+    21300004: baits_2
+    21300006: baits_3
+    21300008: baits_4
+    21300010: baits_5
+    21300012: baits_6
+    21300014: baits_7
+    21300016: baits_8
+    21300018: baits_9
+    21300020: baits_10
+    21300022: baits_11
+    21300024: baits_12
+  externalObjects: {}
+  serializedVersion: 9
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: baits_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 171
+        width: 47
+        height: 101
+      alignment: 9
+      pivot: {x: 0.26417774, y: 0.8912438}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0eb075e4ce022c04abbd0d595772493e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baits_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 171
+        width: 47
+        height: 101
+      alignment: 9
+      pivot: {x: 0.25392458, y: 0.8864725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a64e14a44f5bb840b34b68c53d898b4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baits_2
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 171
+        width: 48
+        height: 101
+      alignment: 9
+      pivot: {x: 0.25905132, y: 0.8912438}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc5c786db4017b4aa8d5a3f9b3f6bc9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baits_3
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 171
+        width: 47
+        height: 101
+      alignment: 9
+      pivot: {x: 0.25392509, y: 0.8864725}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84c839bfc72951848b02b94dc04372a3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baits_4
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 171
+        width: 86
+        height: 101
+      alignment: 9
+      pivot: {x: 0.50560355, y: 0.8912438}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b01b0f1f8a71394fa1a4288d9cc5a0d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baits_5
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 148
+        width: 80
+        height: 124
+      alignment: 9
+      pivot: {x: 0.33133584, y: 0.90805864}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e87f414d00f82b429d578f19dc08c31
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baits_6
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 154
+        width: 65
+        height: 118
+      alignment: 9
+      pivot: {x: 0.37396523, y: 0.9043041}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11db9888f2ef9bf42863fa858ddd2d9c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baits_7
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 30
+        width: 98
+        height: 111
+      alignment: 9
+      pivot: {x: 0.37706697, y: 0.89072794}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8b2bc3d72c1c6e4e9fe73c989f0f361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baits_8
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0
+        width: 100
+        height: 141
+      alignment: 9
+      pivot: {x: 0.32651687, y: 0.9135434}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17dbc77697e54f043a61ab14801dab93
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baits_9
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 25
+        width: 121
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f747e35b094bc45498c52bf427749f3b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baits_10
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 98
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d093402b1112a84bba6295976f5f338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baits_11
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 15
+        width: 73
+        height: 122
+      alignment: 9
+      pivot: {x: 0.40758148, y: 0.906848}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2a1e98001f69d445a7b53ba1eeb2d90
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: baits_12
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 17
+        width: 63
+        height: 109
+      alignment: 9
+      pivot: {x: 0.25522673, y: 0.8934761}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 577379495ebe4e3459dae1762a631d59
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 6c588363091bbd44384b7b7f5c6f0694
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
